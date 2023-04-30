@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Wanderer](https://wanderer.onrender.com/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 👨‍💻 All of my projects are available at [https://hanyehtun.netlify.app/](https://hanyehtun.netlify.app/)
 
